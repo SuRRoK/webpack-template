@@ -1,4 +1,5 @@
 import './js/common';
+import './css/main.css';
 // import 'vue'
 // import Vue from 'vue'
 window.Vue = require('vue');
